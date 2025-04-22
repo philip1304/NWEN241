@@ -1,6 +1,5 @@
 #include <stdio.h>
 	// C Practice Project
-	// Optional: loop for multiple calculations until user exits, better input handling (e.g., invalid operator)
 
 int main(void) {
 	double num1, num2, result;
