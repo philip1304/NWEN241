@@ -2,6 +2,7 @@
 #include <stdbool.h>
 
 int main() {
+	
 	// Variables: Reusable containers for values.
 	//            Behaves as if it were the value it contains.
 
