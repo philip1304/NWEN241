@@ -13,16 +13,16 @@ int main() {
 	scanf("%d", &age);
 	getchar();
 
-	if(age >= 65) {
+	if (age >= 65) {
 		printf("You are a senior!\n");
 	}
-	else if(age >= 18) {
+	else if (age >= 18) {
 		printf("You are an adult!\n");
 	}
-	else if(age < 0) {
+	else if (age < 0) {
 		printf("You haven't been born yet!\n");
 	}
-	else if(age == 0) {
+	else if (age == 0) {
 		printf("You are a newborn!\n");
 	}
 	else {
@@ -32,7 +32,7 @@ int main() {
 
 	bool isStudent = true;
 
-	if(isStudent) {
+	if (isStudent) {
 		printf("You are a student!\n");
 	}
 	else {
